@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Accidents DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Accidents DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Accidents DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Accidents DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Twilight.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Twilight.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Vehicle.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Vehicle.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Driver.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Driver.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Road Feature.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Road Feature.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Weather.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Weather.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Speed Limit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF43795A-1B20-4937-B322-BC2C4D709824}|SSAS_Filnal_Project\\SSAS_Filnal_Project.dwproj|solutionrelative:SSAS_Filnal_Project\\Dim Speed Limit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accidents DW.dsv [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Accidents DW.dsv",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Accidents DW.dsv",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Accidents DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:20:12.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Location.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Location.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:07:15.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Accidents DW.cube [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Accidents DW.cube",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Accidents DW.cube",
+              "ToolTip": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Accidents DW.cube [Design]",
+              "RelativeToolTip": "SSAS_Filnal_Project\\Accidents DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T16:45:26.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Twilight.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Twilight.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Twilight.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Twilight.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T16:47:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Date.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T16:48:28.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Vehicle.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Vehicle.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Vehicle.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Vehicle.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:18:07.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Driver.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Driver.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Driver.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Driver.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:18:37.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Road Feature.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Road Feature.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Road Feature.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Road Feature.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:07:43.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Weather.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Weather.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Weather.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Weather.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:15:09.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dim Speed Limit.dim [Design]",
+              "DocumentMoniker": "E:\\Datawarhouse\\ssis-ssas\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Speed Limit.dim",
+              "RelativeDocumentMoniker": "SSAS_Filnal_Project\\Dim Speed Limit.dim",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\SSAS_Filnal_Project\\SSAS_Filnal_Project\\Dim Speed Limit.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:14:40.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

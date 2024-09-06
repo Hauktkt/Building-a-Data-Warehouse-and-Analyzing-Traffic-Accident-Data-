@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Accident_source", "Accident_source\Accident_source.dtproj", "{BCA8536A-E76D-4FB9-BBE3-88D7AFD1D616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA8536A-E76D-4FB9-BBE3-88D7AFD1D616}.Development|Default.ActiveCfg = Development
+		{BCA8536A-E76D-4FB9-BBE3-88D7AFD1D616}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC0745A-257A-43B3-AAAB-5A4265288008}
+	EndGlobalSection
+EndGlobal

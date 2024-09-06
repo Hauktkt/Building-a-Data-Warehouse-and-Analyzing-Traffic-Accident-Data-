@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="HAUHUYNH.ACCIDENT_SOURCE"
+  DTS:DTSID="{4F7AAC69-CA37-404F-B689-8855C3BFE1B6}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=HAUHUYNH;Initial Catalog=ACCIDENT_SOURCE;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Accident_source-{4F7AAC69-CA37-404F-B689-8855C3BFE1B6}HAUHUYNH.ACCIDENT_SOURCE;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
